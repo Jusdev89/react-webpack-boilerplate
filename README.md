@@ -14,10 +14,14 @@ webpack
 
 #####optional:
 
+serve files to browser at the url http://localhost:8080/
+
 ```
 npm install -g webpack-dev-server
 or
 yarn global add webpack-dev-server
+
+webpack-dev-server
 ```
 
 ---
