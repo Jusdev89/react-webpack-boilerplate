@@ -1,5 +1,25 @@
 ##Get a react app up and running with this boilerplate.
 
+###Get this running:
+
+#####clone repo
+
+```
+npm install or yarn
+
+npm install -g webpack or yarn global add webpack
+
+webpack
+```
+
+#####optional:
+
+```
+npm install -g webpack-dev-server
+or
+yarn global add webpack-dev-server
+```
+
 ---
 
 <!-- LICENSE -->
