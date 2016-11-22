@@ -1,4 +1,4 @@
-Get a react app up and running with this boilerplate.
+##Get a react app up and running with this boilerplate.
 
 ---
 
